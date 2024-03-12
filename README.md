@@ -11,8 +11,8 @@ This Terraform project manages infrastructure resources on AWS in multiple regio
   - `networks`: Configurations for VPCs, subnets, and network-related resources.
   - `s3`: Configurations for S3 buckets.
 
-- **Project_East1**: Configuration for managing resources in the us-east-1 region.
-- **Project_West2**: Configuration for managing resources in the us-wast-2 region.
+- **Project1**: Configuration for managing resources in the us-east-1 region.
+- **Project2**: Configuration for managing resources in the us-east-2 region.
 
 ## Usage
 
