@@ -1,6 +1,6 @@
 Terraform Project: AWS Multi-region Infrastructure as Code (IaC)
 
-This Terraform project manages infrastructure resources on AWS in multiple regions (us-east-1 and us-wast-2) using modularized configurations.
+This Terraform project manages infrastructure resources on AWS in multiple regions (us-east-1 and us-east-2) using modularized configurations.
 
 ## Project Structure
 
